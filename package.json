@@ -1,0 +1,30 @@
+{
+  "name": "ncart",
+  "version": "1.0.0",
+  "description": "ncart server api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "^3.8.25",
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtancman/ncart.git"
+  },
+  "author": "Raffael Tancman",
+  "license": "GNU GENERAL PUBLIC LICENSE VERSION 3",
+  "bugs": {
+    "url": "https://github.com/rtancman/ncart/issues"
+  },
+  "homepage": "https://github.com/rtancman/ncart",
+  "keywords": [
+    "shopp",
+    "cart",
+    "checkout"
+  ]
+}
